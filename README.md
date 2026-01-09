@@ -23,24 +23,11 @@ navigation flows, assertions, and regression testing.
 - Close cookies banner and navigate to pricing
 - Verify Docs page heading
 
-### Cypress
-- (Your Cypress tests go here)
-
 ## How to Run
 
 1. Install dependencies:
    ```bash
    npm install
 
-5. Scroll down → Commit new file → **Commit directly to main**  
 
-✅ Now your GitHub repo is polished and recruiter-ready
 
----
-
-## 2️⃣ Add the GitHub Link to Your Resume
-
-For example, in your **Technical Skills** or **Experience section**:
-
-```text
-GitHub: https://github.com/YOUR_USERNAME/QA-Automation-Portfolio
